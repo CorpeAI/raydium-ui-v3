@@ -1,6 +1,6 @@
 export const darkColors: Record<keyof typeof colors, string> = {
   // app main bg color
-  primary: '#abc4ff',
+  primary: '#131519',
   secondary: '#22D1F8',
   secondary10: 'rgba(34, 209, 248, 0.1)',
 
