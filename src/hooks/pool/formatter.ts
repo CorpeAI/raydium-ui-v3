@@ -1,5 +1,5 @@
 import { PublicKey } from '@solana/web3.js'
-import { ApiV3PoolInfoItem, TickUtils, ApiV3PoolInfoConcentratedItem, ApiV3PoolInfoCountItem } from '@raydium-io/raydium-sdk-v2'
+import { ApiV3PoolInfoItem, TickUtils, ApiV3PoolInfoConcentratedItem, ApiV3PoolInfoCountItem } from '@corpeai/corpeai-sdk-v2'
 import { getPoolName } from '@/features/Pools/util'
 import { wSolToSolString } from '@/utils/token'
 import { toTotalPercent } from '@/utils/numberish/toPercentString'
