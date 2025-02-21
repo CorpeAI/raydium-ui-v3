@@ -30,7 +30,6 @@ export function QuestionToolTip(props: {
           // @ts-expect-error don't why this error
           <InfoCircleIcon style={{ display: 'block' }} {...props.iconProps} />
         ) : (
-          // @ts-expect-error don't why this error
           <QuestionCircleIcon style={{ display: 'block' }} {...props.iconProps} />
         )}
       </Box>
