@@ -15,7 +15,7 @@ import {
   VStack,
   useDisclosure
 } from '@chakra-ui/react'
-import { TokenInfo } from '@raydium-io/raydium-sdk-v2'
+import { TokenInfo } from '@corpeai/corpeai-sdk-v2'
 import Decimal from 'decimal.js'
 
 import Button from '@/components/Button'
