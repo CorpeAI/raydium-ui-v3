@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { Button, HStack, Text, VStack } from '@chakra-ui/react'
-import { ApiV3PoolInfoConcentratedItem } from 'src/features/Create/StandardPool'
+import { ApiV3PoolInfoConcentratedItem } from '@corpeai/corpeai-sdk-v2'
 
 import { useTranslation } from 'react-i18next'
 import TokenAvatar from '@/components/TokenAvatar'
