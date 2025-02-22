@@ -9,7 +9,7 @@ export default function Logo(props: SvgIcon) {
   font-family: Arial Black;
   dominant-baseline: central;
   text-anchor: middle;
-}</style></svg>
+</style></svg>
     
   )
 }
