@@ -1,7 +1,7 @@
 import { Box, Center, Flex, Heading } from '@chakra-ui/react'
 
 
-import logo from './images/logo.png'
+import Logo from './images/logo.png'
 
 export default function logo() {
   return (
