@@ -3,7 +3,7 @@ import { Box, Center, Flex, Heading } from '@chakra-ui/react'
 
 import logo from './images/logo.png'
 
-export default function Facilitate() {
+export default function logo() {
   return (
     <Box pt={234}>
       <Center px={[8, 0]}>
