@@ -5,7 +5,7 @@ import useScroll from '@/hooks/useScroll'
 
 import Button from '../Button'
 
-import Logo from './Logo'
+import Logo from './public/Logo.png'
 import LogoLegacy from './images/LogoLegacy'
 
 export default function Header() {
