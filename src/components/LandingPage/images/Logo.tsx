@@ -4,7 +4,7 @@ export default function Logo(props: SvgIcon) {
   const { width = 224, height = 60 } = props
 
   return (
-    <svg width={width} height={height} viewBox="0 0 224 60" fill="none" className="chakra-icon" {...props}>
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.0" width={width} height={height} viewBox="0 0 224 60" fill="none" className="chakra-icon" {...props}>
 <g fill="#FFFFFFFF" stroke="#FFFFFFFF">
 <path d="M 74.025 104.759 L 23.550 105.019 35.509 117.009 L 47.469 129.000 74.024 129.000 L 100.580 129.000 112.540 116.750 L 124.500 104.500 74.025 104.759 "/></g>
 <g fill="#FFFFFFFF" stroke="#FFFFFFFF">
